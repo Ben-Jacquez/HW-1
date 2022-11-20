@@ -8,9 +8,8 @@ Horiseon Web App Home Page Refactor
 Programs & Software Used
 * Visual Studio Code
 * HTML
-* style.cssVisual Studio Code
+* style.css
 
 ## Refactored, organized, condensed, and made the base code more semantic with a logical structure. Fixed broken links. I added accessability alt atributes to the images. Named the title, fixed the header and footer. and commited all my changes to the source code.
 
 No Known Bugs
-

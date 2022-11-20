@@ -92,18 +92,17 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-/* restructured the benifit-lead h3, brand h3, and cost h3 classes all into the .benifit-block h3 class */
-.benefit-block h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
 /* restructured the benifit-lead img, brand img, and cost img classes all into the .benifit-block img class */
 .benefit-block img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+/* restructured the benifit-lead h3, brand h3, and cost h3 classes all into the .benifit-block h3 class */
+.benefit-block h3 {
+    margin-bottom: 10px;
+    text-align: center;
 }
 
 /* Restructured the class selectors into one class because all of the original class's and id's were doing the same function in css */

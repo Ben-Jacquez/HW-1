@@ -1,2 +1,2 @@
-# horiseon-web-refactor-
+# horiseon-web-refactor
 Horiseon Web App Home Page Refactor 

@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Changed the class selector "header" into an actual header and removed the "." from the css so they still apply */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -86,54 +87,26 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+/* restructured the benifit-lead, brand, and cost classes all into the .benifit-block class */
+.benefit-block {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+/* restructured the benifit-lead h3, brand h3, and cost h3 classes all into the .benifit-block h3 class */
+.benefit-block h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+/* restructured the benifit-lead img, brand img, and cost img classes all into the .benifit-block img class */
+.benefit-block img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+/* Restructured the class selectors into one class because all of the original class's and id's were doing the same function in css */
 .information-cards {
     margin-bottom: 20px;
     padding: 50px;
@@ -143,25 +116,18 @@ p {
     color: #ffffff;
 }
 
+/* Restructured the class img selectors into one class because all of the original class's and id's were doing the same function in css */
 .information-cards img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+/* Restructured the class selectors that also have an h2 selector into one class because all of the original class's and id's were doing the same function in css */
+.information-cards h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* Changed the class footer into an actual footer so I removed the "." in css */
 footer {
     padding: 30px;
     clear: both;

@@ -3,7 +3,7 @@
 Horiseon webpage refactored for proper file structure, and intuitive code layout.
 
 ## Deployed Website
-![Deployed Version Here](https://ben-jacquez.github.io/horiseon-web-refactor/)
+[Deployed Version Here](https://ben-jacquez.github.io/horiseon-web-refactor/)
 ![Website Screenshot](assets/images/horiseon-refactor-ss.png)
 
 ## Table of Contents

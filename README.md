@@ -1,15 +1,49 @@
-# horiseon-web-refactor
-Horiseon Web App Home Page Refactor 
+# Horiseon Web Refactor By Benjamin Jacquez
+## Description
+Horiseon webpage refactored for proper file structure, and intuitive code layout.
 
-### By **Benjamin Jacquez**
+## Deployed Website
+![Deployed Version Here]()
 
-### _horiseon web pag refactor for UCLA coding bootcamp Homework 1_
+## Table of Contents
+- [Description](#description)
+- [Deployed Website](#deployed-website)
+- [Technology Used](#technology-used)
+- [Usage](#usage)
+- [Features](#features)
+- [License](#license)
 
-Programs & Software Used
-* Visual Studio Code
-* HTML
-* style.css
+## Technology Used
+- Visual Studio Code
+- HTML
+- CSS
 
-## Refactored, organized, condensed, and made the base code more semantic with a logical structure. Fixed broken links. I added accessability alt atributes to the images. Named the title, fixed the header and footer. and commited all my changes to the source code.
+## Usage
+Basic Refactored HTML & CSS Template. Refactored given code to have a clean layout with proper file structure, intuitive code order, working nav bar , and make it mobile friendly.
 
-No Known Bugs
+## Features
+- Refactored Code
+- Template for clean working code.
+
+## License
+MIT License
+
+Copyright (c) 2022 Benjamin Jacquez
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
